@@ -1,0 +1,7 @@
+{
+  "name": "Podpowiedzi emotek Klubu Smakoszy",
+  "version": "1.0.0",
+  "author": "Dargoth",
+  "description": "Podpowiedzi (Tab) dla emotek Klubu Smakoszy.",
+  "entryPoint": "plugin.ts"
+}
